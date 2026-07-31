@@ -1,15 +1,15 @@
 #include <stdio.h>
 
-struct Student
+typedef struct Student
 {
     int roll;
     char name[50];
     float marks;
-};
+}Student;
 
 int main(){
-    struct Student student;
-    struct Student *ptr = &student;
+    Student student;
+    Student *ptr = &student;
 
     printf("Enter roll number: ");
     scanf("%d", &ptr->roll);
