@@ -66,16 +66,16 @@ This lab revises core C programming concepts including arrays, pointers, structu
 
 | # | Problem | Solution | Status |
 | :---: | --- | :---: | :---: |
-| **01** | Find the largest element, smallest element, and average of N integers. | [View Code](./LAB1/01_ArrayStatistics/) | ✅ Done |
-| **02** | Accept N integers and display the array in reverse order. | [View Code](./LAB1/02_ReverseArray/) | ✅ Done |
-| **03** | Search for an element in an array using linear search and display its position. | [View Code](./LAB1/03_LinearSearch/) | ✅ Done |
-| **04** | Swap two integers using pointers and a user-defined function. | [View Code](./LAB1/04_SwapUsingPointers/) | ✅ Done |
-| **05** | Calculate the sum of array elements using pointer arithmetic. | [View Code](./LAB1/05_SumOfArrayUsingPointerArithmetic/) | ✅ Done |
-| **06** | Store and display details of five students using a `Student` structure. | [View Code](./LAB1/06_StudentStruct/) | ✅ Done |
-| **07** | Find the student with the highest marks and calculate the class average. | [View Code](./LAB1/07_StudentAnalysis/) | ✅ Done |
-| **08** | Dynamically allocate memory for N integers using `malloc()` and release it using `free()`. | [View Code](./LAB1/08_DynamicMemoryAllocation/) | ✅ Done |
-| **09** | Access a `Student` structure through a pointer using the `->` operator. | [View Code](./LAB1/09_PointerToStruct/) | ✅ Done |
-| **10** | Dynamically allocate records for N students and display the student with the highest marks. | [View Code](./LAB1/10_DynamicStudentRecords/) | ✅ Done |
+| **01** | Find the largest element, smallest element, and average of N integers. | [View Code](./LAB1/01_ArrayStatistics/main.cpp) | ✅ Done |
+| **02** | Accept N integers and display the array in reverse order. | [View Code](./LAB1/02_ReverseArray/main.cpp) | ✅ Done |
+| **03** | Search for an element in an array using linear search and display its position. | [View Code](./LAB1/03_LinearSearch/main.cpp) | ✅ Done |
+| **04** | Swap two integers using pointers and a user-defined function. | [View Code](./LAB1/04_SwapUsingPointers/main.cpp) | ✅ Done |
+| **05** | Calculate the sum of array elements using pointer arithmetic. | [View Code](./LAB1/05_SumOfArrayUsingPointerArithmetic/main.cpp) | ✅ Done |
+| **06** | Store and display details of five students using a `Student` structure. | [View Code](./LAB1/06_StudentStruct/main.c) | ✅ Done |
+| **07** | Find the student with the highest marks and calppculate the class average. | [View Code](./LAB1/07_StudentAnalysis/main.c) | ✅ Done |
+| **08** | Dynamically allocate memory for N integers using `malloc()` and release it using `free()`. | [View Code](./LAB1/08_DynamicMemoryAllocation/main.c) | ✅ Done |
+| **09** | Access a `Student` structure through a pointer using the `->` operator. | [View Code](./LAB1/09_PointerToStruct/main.c) | ✅ Done |
+| **10** | Dynamically allocate records for N students and display the student with the highest marks. | [View Code](./LAB1/10_DynamicStudentRecords/main.c) | ✅ Done |
 
 </details>
 
