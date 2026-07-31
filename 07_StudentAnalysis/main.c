@@ -13,7 +13,7 @@ void print_data(Student student);
 int main(){
     int n = 5;
     Student students[n];
-    int highest_marks = 0, highest_marks_index, total = 0;
+    int highest_marks = 0, highest_marks_index = 0, total = 0;
     for (int i = 0; i < n; i++)
     {
         printf("Enter the data for five students:\n");
