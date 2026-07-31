@@ -11,9 +11,9 @@ typedef struct Student
 void print_data(Student student);
 
 int main(){
-    int n = 2;
+    int n = 5;
     Student students[n];
-    int highest_marks = 0, highest_marks_index;
+    int highest_marks = 0, highest_marks_index, total = 0;
     for (int i = 0; i < n; i++)
     {
         printf("Enter the data for five students:\n");
@@ -23,6 +23,7 @@ int main(){
         scanf("%d", &students[i].roll);
         printf("Enter the student %d marks: ", i + 1);
         scanf("%d", &students[i].marks);
+        total += students[i].marks;
         if (highest_marks < students[i].marks)
         {
             highest_marks = students[i].marks;
@@ -44,7 +45,7 @@ int main(){
     
 
     printf("The highest marks is %d scored by student: %s", highest_marks, students[highest_marks_index].name);
-    
+    printf("The average is %f", (float)total/n);
     return 0;
 }
 
