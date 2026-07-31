@@ -35,6 +35,7 @@ int main(){
     Display(arr);
     cout << "The sum of all the elements is: " << ArrSum(arr) << endl;
     
+    delete[] arr.A;
     return 0;
 }
 

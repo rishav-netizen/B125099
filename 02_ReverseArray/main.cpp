@@ -38,6 +38,7 @@ int main(){
     cout << "After reversing, ";
     Display(arr);
     
+    delete[] arr.A;
     return 0;
 }
 

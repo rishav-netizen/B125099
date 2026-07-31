@@ -40,6 +40,7 @@ int main(){
     cout << "The minimum element is: " << ArrMin(arr) << endl;
     cout << "The average of all the elements is: " << ArrAvg(arr) << endl;
     
+    delete[] arr.A;
     return 0;
 }
 
