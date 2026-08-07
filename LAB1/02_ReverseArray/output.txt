@@ -1,0 +1,8 @@
+===== INPUT =====
+5
+5
+1 2 3 4 5
+
+===== OUTPUT =====
+Enter array size: Enter the number of integers: Enter element 1: Enter element 2: Enter element 3: Enter element 4: Enter element 5: Elements of the array are: {1, 2, 3, 4, 5}
+After reversing, Elements of the array are: {5, 4, 3, 2, 1}

@@ -1,0 +1,10 @@
+===== INPUT =====
+5
+5
+10 20 30 40 50
+
+===== OUTPUT =====
+Enter array size: Enter the number of integers: Enter element 1: Enter element 2: Enter element 3: Enter element 4: Enter element 5: Elements of the array are: {10, 20, 30, 40, 50}
+The maximum element is: 50
+The minimum element is: 10
+The average of all the elements is: 30

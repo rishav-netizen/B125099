@@ -1,0 +1,9 @@
+===== INPUT =====
+5
+5
+10 20 30 40 50
+30
+
+===== OUTPUT =====
+Enter array size: Enter the number of numbers: Enter element 1: Enter element 2: Enter element 3: Enter element 4: Enter element 5: Elements of the array are: {10, 20, 30, 40, 50}
+Enter element you wanna linear search: Element found at index 2

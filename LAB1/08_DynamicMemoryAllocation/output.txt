@@ -1,0 +1,7 @@
+===== INPUT =====
+5
+1 2 3 4 5
+
+===== OUTPUT =====
+Enter the value of n(array size: Elements of the array are: {0, 0, 0, 0, 0}
+Enter element 1: Enter element 2: Enter element 3: Enter element 4: Enter element 5: Elements of the array are: {1, 2, 3, 4, 5}

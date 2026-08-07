@@ -1,0 +1,24 @@
+===== INPUT =====
+3
+101
+Alice Johnson
+91.5
+102
+Bob Smith
+87.0
+103
+Charlie Brown
+95.5
+
+===== OUTPUT =====
+Enter number of students: 
+Enter details of student 1:
+Roll: Name: Marks: 
+Enter details of student 2:
+Roll: Name: Marks: 
+Enter details of student 3:
+Roll: Name: Marks: 
+Student with highest marks:
+Roll Number: 103
+Name: Charlie Brown
+Marks: 95.50

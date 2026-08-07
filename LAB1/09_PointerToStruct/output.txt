@@ -1,0 +1,11 @@
+===== INPUT =====
+101
+Alice Johnson
+95.5
+
+===== OUTPUT =====
+Enter roll number: Enter name: Enter marks: 
+Student Details:
+Roll Number: 101
+Name: Alice Johnson
+Marks: 95.50
