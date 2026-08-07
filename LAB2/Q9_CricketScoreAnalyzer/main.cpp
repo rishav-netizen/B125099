@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+// Created class for cricket player
 class CricketPlayer
 {
 private:
@@ -12,6 +13,7 @@ private:
     string performance;
 
 public:
+    // taking details for the player
     void acceptDetails()
     {
         cout << "Enter Player Name: ";
@@ -24,11 +26,13 @@ public:
         cin >> totalRuns;
     }
 
+    // calculated average
     void calculateAverage()
     {
         battingAverage = (float)totalRuns / matchesPlayed;
     }
 
+    // judging based on average
     void classifyPerformance()
     {
         if (battingAverage >= 50)
@@ -41,6 +45,7 @@ public:
             performance = "Poor";
     }
 
+    // displayed all data
     void displayReport()
     {
         cout << "\n----- Player Report -----\n";
@@ -52,6 +57,7 @@ public:
     }
 };
 
+// main function
 int main()
 {
     CricketPlayer player;
