@@ -35,37 +35,67 @@ The objective of this lab is to revise the fundamentals of **C Programming**, in
 LAB1/
 │
 ├── 01_ArrayStatistics/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── 02_ReverseArray/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── 03_LinearSearch/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── 04_SwapUsingPointers/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── 05_SumOfArrayUsingPointerArithmetic/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── 06_StudentStruct/
-│   └── main.c
+│   ├── main.c
+│   └── output.txt
 │
 ├── 07_StudentAnalysis/
-│   └── main.c
+│   ├── main.c
+│   └── output.txt
 │
 ├── 08_DynamicMemoryAllocation/
-│   └── main.c
+│   ├── main.c
+│   └── output.txt
 │
 ├── 09_PointerToStruct/
-│   └── main.c
+│   ├── main.c
+│   └── output.txt
 │
 ├── 10_DynamicStudentRecords/
-│   └── main.c
+│   ├── main.c
+│   └── output.txt
+│
+├── main.py
 │
 └── README.md
 ```
+```
+---
+
+# 🤖 Automation Script
+
+This repository includes a helper script, `main.py`, to automate testing of every program in the lab.
+
+### Features
+
+- Automatically detects every question folder.
+- Compiles each C++ (`main.cpp`) and C (`main.c`) program.
+- Supplies predefined sample inputs for each program.
+- Executes every program automatically.
+- Generates an `output.txt` file inside each question directory containing both the sample input used and the corresponding program output.
+- Saves compilation errors to `compile_error.txt` if compilation fails.
+- Removes the generated executable after execution.
+
+This allows all programs to be compiled, tested, and documented with a single command.
 
 ---
 
