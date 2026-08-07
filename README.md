@@ -1,143 +1,213 @@
-<div align="center">
+# 💻 Object-Oriented Programming Laboratory
 
-# 💻 Object-Oriented Programming Lab
+<p align="center">
 
-### B.Tech · 3rd Semester · CSE B1
-
-**Roll No. B125099**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-blue?style=for-the-badge)
+![University](https://img.shields.io/badge/IIIT-Bhubaneswar-orange?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-OOP-success?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-3rd-purple?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-M4-black?style=for-the-badge&logo=apple&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-*A collection of laboratory exercises and implementations completed as part of the Object-Oriented Programming course.*
+</p>
 
-</div>
-
----
-
-## 📖 About This Repository
-
-This repository contains my **Object-Oriented Programming Laboratory** work for the third semester of B.Tech CSE. It is used to organize lab assignments, programming exercises, and implementations covered throughout the course.
-
-> The initial lab focuses on revising fundamental C concepts before moving on to object-oriented programming concepts.
-
-| Course Information | Details |
-| --- | --- |
-| 🏫 **Institution** | International Institute of Information Technology, Bhubaneswar |
-| 💻 **Department** | Computer Science and Engineering |
-| 🎓 **Semester** | 3rd Semester |
-| 👥 **Section** | CSE B1 |
-| 🪪 **Roll Number** | B125099 |
+<p align="center">
+A collection of all my laboratory assignments for the <b>Object-Oriented Programming (OOP)</b> course at
+<b>International Institute of Information Technology, Bhubaneswar</b>.
+</p>
 
 ---
 
-## 🗂️ Repository Structure
+# 📖 About
+
+This repository contains all the laboratory assignments completed during my **Object-Oriented Programming Laboratory** course.
+
+The repository is organized lab-wise, with each lab containing individual solutions for every question along with a dedicated README explaining the objectives and topics covered.
+
+As the semester progresses, this repository will continue to grow with additional lab assignments.
+
+---
+
+# 📂 Repository Structure
 
 ```text
 OOP/
-├── LAB1/
-│   ├── 01_ArrayStatistics/
-│   ├── 02_ReverseArray/
-│   ├── 03_LinearSearch/
-│   ├── 04_SwapUsingPointers/
-│   ├── 05_SumOfArrayUsingPointerArithmetic/
-│   ├── 06_StudentStruct/
-│   ├── 07_StudentAnalysis/
-│   ├── 08_DynamicMemoryAllocation/
-│   ├── 09_PointerToStruct/
-│   ├── 10_DynamicStudentRecords/
+│
+├── 📁 LAB1
+│   ├── 01_ArrayStatistics
+│   ├── 02_ReverseArray
+│   ├── 03_LinearSearch
+│   ├── 04_SwapUsingPointers
+│   ├── 05_SumOfArrayUsingPointerArithmetic
+│   ├── 06_StudentStruct
+│   ├── 07_StudentAnalysis
+│   ├── 08_DynamicMemoryAllocation
+│   ├── 09_PointerToStruct
+│   ├── 10_DynamicStudentRecords
 │   └── README.md
+│
+├── 📁 LAB2
+│   ├── Q1_CarInformationSystem
+│   ├── Q2_SquareCalculator
+│   ├── Q3_TemperatureConverter
+│   ├── Q4_HotelRoomBooking
+│   ├── Q5_MobileRechargeSystem
+│   ├── Q6_TimeAddition
+│   ├── Q7_MovieTicketBooking
+│   ├── Q8_HostelFeeManagement
+│   ├── Q9_CricketScoreAnalyzer
+│   ├── Q10_WaterBillCalculator
+│   └── README.md
+│
 └── README.md
 ```
 
 ---
 
-## 🧪 Lab 01 — C Programming Revision
+# 📚 Laboratory Index
 
-**Date:** 31 July 2026
-
-This lab revises core C programming concepts including arrays, pointers, structures, dynamic memory allocation, and user-defined functions.
-
-<details open>
-<summary><b>📋 View Questions & Solutions</b></summary>
-<br>
-
-| # | Problem | Solution | Status |
-| :---: | --- | :---: | :---: |
-| **01** | Find the largest element, smallest element, and average of N integers. | [View Code](./LAB1/01_ArrayStatistics/main.cpp) | ✅ Done |
-| **02** | Accept N integers and display the array in reverse order. | [View Code](./LAB1/02_ReverseArray/main.cpp) | ✅ Done |
-| **03** | Search for an element in an array using linear search and display its position. | [View Code](./LAB1/03_LinearSearch/main.cpp) | ✅ Done |
-| **04** | Swap two integers using pointers and a user-defined function. | [View Code](./LAB1/04_SwapUsingPointers/main.cpp) | ✅ Done |
-| **05** | Calculate the sum of array elements using pointer arithmetic. | [View Code](./LAB1/05_SumOfArrayUsingPointerArithmetic/main.cpp) | ✅ Done |
-| **06** | Store and display details of five students using a `Student` structure. | [View Code](./LAB1/06_StudentStruct/main.c) | ✅ Done |
-| **07** | Find the student with the highest marks and calppculate the class average. | [View Code](./LAB1/07_StudentAnalysis/main.c) | ✅ Done |
-| **08** | Dynamically allocate memory for N integers using `malloc()` and release it using `free()`. | [View Code](./LAB1/08_DynamicMemoryAllocation/main.c) | ✅ Done |
-| **09** | Access a `Student` structure through a pointer using the `->` operator. | [View Code](./LAB1/09_PointerToStruct/main.c) | ✅ Done |
-| **10** | Dynamically allocate records for N students and display the student with the highest marks. | [View Code](./LAB1/10_DynamicStudentRecords/main.c) | ✅ Done |
-
-</details>
-
-### 🧠 Concepts Practiced
-
-`Arrays` · `Functions` · `Pointers` · `Pointer Arithmetic` · `Structures` · `Dynamic Memory Allocation` · `malloc()` · `free()`
+| Lab | Title | Description | Directory |
+|:--:|---------|-------------|-----------|
+| 📘 Lab 1 | C Programming Revision | Arrays, Pointers, Structures and Dynamic Memory | **[Open →](./LAB1/README.md)** |
+| 📗 Lab 2 | Classes, Objects & Member Functions | Introduction to Object-Oriented Programming using C++ | **[Open →](./LAB2/README.md)** |
 
 ---
 
-## ⚙️ Compile & Run
+# 🎯 Concepts Covered
 
-Clone the repository:
+## 🔹 C Programming
 
-```bash
-git clone https://github.com/rishav-netizen/B125099.git
-cd B125099
-```
-
-Compile a C source file using Clang:
-
-```bash
-clang program.c -o program
-./program
-```
-
-Or with GCC:
-
-```bash
-gcc program.c -o program
-./program
-```
-
-> Replace `program.c` and `program` with the actual source file and executable names.
+- Arrays
+- Functions
+- Searching Algorithms
+- Pointers
+- Pointer Arithmetic
+- Structures
+- Dynamic Memory Allocation
+- `malloc()` and `free()`
 
 ---
 
-## 📝 Coding Practices
+## 🔹 C++ Programming
 
-Programs in this repository aim to follow these conventions:
-
-- Clear and meaningful variable/function names
-- Proper indentation and formatting
-- Modular code using user-defined functions where appropriate
-- Correct use of pointers and dynamic memory
-- Memory allocated dynamically is released with `free()`
-- Simple and readable terminal output
+- Classes
+- Objects
+- Member Functions
+- Encapsulation
+- Constructors (Upcoming)
+- Basic OOP Design
+- Real-world Programming Problems
 
 ---
 
-## 🚀 Progress
+# 📈 Repository Progress
 
-| Lab | Topic | Status |
-| --- | --- | :---: |
-| **Lab 01** | C Programming Revision | ✅ Completed |
-| **Upcoming Labs** | Object-Oriented Programming | 🔜 Coming Soon |
+| Lab | Status |
+|:---:|:------:|
+| ✅ Lab 1 | Completed |
+| ✅ Lab 2 | Completed |
+| ⏳ Lab 3 | Coming Soon |
+| ⏳ Lab 4 | Coming Soon |
+| ⏳ Lab 5 | Coming Soon |
+| ⏳ Lab 6 | Coming Soon |
+
+---
+
+# 🛠 Languages Used
+
+| Language | Usage |
+|:--------:|------|
+| C | Revision of procedural programming concepts |
+| C++ | Object-Oriented Programming laboratory assignments |
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/OOP.git
+```
+
+Go to the desired lab
+
+```bash
+cd LAB1
+```
+
+or
+
+```bash
+cd LAB2
+```
+
+Compile a C++ program
+
+```bash
+g++ main.cpp -o main
+./main
+```
+
+Compile a C program
+
+```bash
+gcc main.c -o main
+./main
+```
+
+---
+
+# 📌 Repository Goals
+
+- Maintain clean and readable code.
+- Practice object-oriented programming concepts.
+- Keep every lab well documented.
+- Track learning progress throughout the semester.
+- Build a complete collection of OOP laboratory assignments.
+
+---
+
+# 📅 Current Progress
+
+```
+████████████████████░░░░░░░░░░░░░░░ 20%
+
+✔ LAB 1
+✔ LAB 2
+○ LAB 3
+○ LAB 4
+○ LAB 5
+○ LAB 6
+○ LAB 7
+○ LAB 8
+○ LAB 9
+○ LAB 10
+```
+
+---
+
+# 👨‍💻 Author
+
+### **Rishav Kumar**
+
+**B.Tech — Computer Science & Engineering**
+
+International Institute of Information Technology, Bhubaneswar
 
 ---
 
 <div align="center">
 
-### 📚 Learning one lab at a time.
+### ⭐ If you like this repository, consider giving it a star!
 
-Made for **OOP Laboratory · Semester 3**
+Made with ❤️ while learning C and C++.
 
 </div>
