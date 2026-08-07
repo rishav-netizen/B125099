@@ -12,7 +12,7 @@
 ## 📖 About
 
 This repository contains my **Lab 2** solutions for the **Object Oriented Programming Laboratory**.
-
+****
 The objective of this lab is to understand the fundamentals of **Classes, Objects, Data Members, and Member Functions** by implementing simple real-world applications in **C++**.
 
 > **Institute:** International Institute of Information Technology, Bhubaneswar  
@@ -28,35 +28,46 @@ The objective of this lab is to understand the fundamentals of **Classes, Object
 LAB2/
 │
 ├── Q1_CarInformationSystem/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q2_SquareCalculator/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q3_TemperatureConverter/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q4_HotelRoomBooking/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q5_MobileRechargeSystem/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q6_TimeAddition/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q7_MovieTicketBooking/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q8_HostelFeeManagement/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q9_CricketScoreAnalyzer/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── output.txt
 │
 ├── Q10_WaterBillCalculator/
-│   └── main.cpp
-│
+│   ├── main.cpp
+│   └── output.txt
+│ 
+├── main.py
 └── README.md
 ```
 
@@ -92,6 +103,24 @@ LAB2/
 - ✅ Real-world Problem Solving
 
 ---
+---
+
+# 🤖 Automation Script
+
+This repository includes a helper script named `main.py` that automates testing for all lab programs.
+
+Features:
+
+- Automatically discovers every question folder.
+- Compiles each `main.cpp` file using `g++`.
+- Supplies predefined sample inputs for every program.
+- Executes the compiled program.
+- Saves the generated output to `output.txt` inside the corresponding folder.
+- Saves compiler errors to `compile_error.txt` if compilation fails.
+- Deletes the generated executable after execution.
+
+This script makes it easy to verify the output of every program with a single command instead of compiling and running each program manually.
+
 
 # 🛠️ Compilation
 
