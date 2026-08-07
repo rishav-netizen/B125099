@@ -1,0 +1,6 @@
+Enter the side of the square: 
+Square Details
+--------------
+Side      : 5
+Area      : 25
+Perimeter : 20

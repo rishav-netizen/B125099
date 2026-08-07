@@ -1,0 +1,6 @@
+Enter Consumer Number: Enter Consumer Name: Enter Water Consumption (in litres): 
+Water Bill Details are as follows: 
+Consumer Number: 1001
+Consumer Name: Rishav Kumar
+Water Consumption: 1200 litres
+Total Bill: ₹. 3500

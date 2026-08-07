@@ -1,0 +1,8 @@
+Enter Student Name: Enter Hostel ID: Enter Monthly Fee: Enter Number of Months: Is payment delayed? (Y/N): 
+Hostel Fee Details are as follows: 
+Student Name: Tyler Toney
+Hostel ID: 123
+Monthly Fee: Rs. 5000
+Number of Months: 6
+Late Fine: Rs. 500
+Final Amount Payable: Rs. 30500

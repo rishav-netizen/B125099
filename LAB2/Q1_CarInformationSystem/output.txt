@@ -1,0 +1,6 @@
+Enter the car's details:
+Car Number: Model Year: Brand Name: 
+The car details are as follows: 
+Brand Name: Toyota
+Model: 2024
+Car Number: OD05AB1234

@@ -1,0 +1,7 @@
+Enter your hotel stay details:
+Name: Room Number: Number of days stayed: 
+Your details are as follows:
+Name: Tyler Toney
+Room Number: 101
+Days stayed: 3
+Total rent: 300

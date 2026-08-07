@@ -1,0 +1,5 @@
+Enter First Time
+Enter Hours: Enter Minutes: 
+Enter Second Time
+Enter Hours: Enter Minutes: 
+Resulting Time is: 4 hr 15 min

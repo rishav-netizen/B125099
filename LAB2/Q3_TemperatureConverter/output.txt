@@ -1,0 +1,5 @@
+Enter temperature in Celsius: 
+Temperature Details
+-------------------
+Celsius    : 37 °C
+Fahrenheit : 98.6 °F

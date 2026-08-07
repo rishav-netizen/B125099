@@ -1,0 +1,7 @@
+Enter Player Name: Enter Matches Played: Enter Total Runs Scored: 
+----- Player Report -----
+Player Name: Virat Kohli
+Matches Played: 25
+Total Runs Scored: 1500
+Batting Average: 60
+Performance: Excellent

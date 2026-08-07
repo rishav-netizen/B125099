@@ -1,0 +1,6 @@
+Enter Movie Name: Enter Ticket Price: Enter Number of Tickets: 
+----- Booking Summary -----
+Movie Name: Interstellar
+Ticket Price: Rs. 250
+Number of Tickets: 3
+Total Cost: Rs. 750
