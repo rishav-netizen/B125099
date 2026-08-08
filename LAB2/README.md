@@ -1,28 +1,26 @@
 # 📘 Object Oriented Programming - Lab 2
 
 <p align="center">
-
-![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
-![OOP](https://img.shields.io/badge/Concept-Classes%20%26%20Objects-success?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-3rd-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="C++">
+<img src="https://img.shields.io/badge/Concept-Classes%20%26%20Objects-success?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/Semester-3rd-orange?style=for-the-badge" alt="Semester">
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
 ## 📖 About
 
 This repository contains my **Lab 2** solutions for the **Object Oriented Programming Laboratory**.
-****
+
 The objective of this lab is to understand the fundamentals of **Classes, Objects, Data Members, and Member Functions** by implementing simple real-world applications in **C++**.
 
 > **Institute:** International Institute of Information Technology, Bhubaneswar  
 > **Department:** Computer Science and Engineering  
 > **Course:** Object Oriented Programming Laboratory  
-> **Lab:** 2 – Classes, Objects & Member Functions OOP_LAB_2_CSE_B1.pdf
+> **Lab:** 2 – Classes, Objects & Member Functions ([OOP_LAB_2_CSE_B1.pdf](./OOP_LAB_2_CSE_B1.pdf))
 
 ---
 
-# 📂 Folder Structure
+## 📂 Folder Structure
 
 ```text
 LAB2/
@@ -66,14 +64,14 @@ LAB2/
 ├── Q10_WaterBillCalculator/
 │   ├── main.cpp
 │   └── output.txt
-│ 
+│
 ├── main.py
 └── README.md
 ```
 
 ---
 
-# 📝 Programs Included
+## 📝 Programs Included
 
 | No. | Program | Concepts Practiced | Code |
 |:---:|---------|--------------------|:----:|
@@ -90,7 +88,7 @@ LAB2/
 
 ---
 
-# 🎯 Topics Covered
+## 🎯 Topics Covered
 
 - ✅ Classes
 - ✅ Objects
@@ -103,13 +101,12 @@ LAB2/
 - ✅ Real-world Problem Solving
 
 ---
----
 
-# 🤖 Automation Script
+## 🤖 Automation Script
 
 This repository includes a helper script named `main.py` that automates testing for all lab programs.
 
-Features:
+### Features
 
 - Automatically discovers every question folder.
 - Compiles each `main.cpp` file using `g++`.
@@ -121,19 +118,20 @@ Features:
 
 This script makes it easy to verify the output of every program with a single command instead of compiling and running each program manually.
 
+---
 
-# 🛠️ Compilation
+## 🛠️ Compilation
 
 Compile any program using **g++**.
 
 ```bash
-g++ main.cpp -o main
+g++ -std=c++17 main.cpp -o main
 ./main
 ```
 
 ---
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 After completing this lab, I practiced:
 
@@ -146,17 +144,19 @@ After completing this lab, I practiced:
 
 ---
 
-# 📄 Lab Questions
+## 📄 Lab Questions
 
-The programs in this repository are based on the **OOP Laboratory – Lab 2** assignment covering ten exercises on classes, objects, and member functions. OOP_LAB_2_CSE_B1.pdf
+The programs in this repository are based on the **OOP Laboratory – Lab 2** assignment covering ten exercises on classes, objects, and member functions.
+
+📄 **Assignment PDF:** [OOP_LAB_2_CSE_B1.pdf](./OOP_LAB_2_CSE_B1.pdf)
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Rishav Kumar**
 
-B.Tech CSE  
+B.Tech in Computer Science & Engineering  
 International Institute of Information Technology, Bhubaneswar
 
 ---
