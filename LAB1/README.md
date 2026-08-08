@@ -1,6 +1,7 @@
 # 📘 Object Oriented Programming - Lab 1
 
 <p align="center">
+
 ![Language](https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-blue?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/Semester-3rd-orange?style=for-the-badge)
 ![Topic](https://img.shields.io/badge/Lab-C%20Programming%20Revision-success?style=for-the-badge)
