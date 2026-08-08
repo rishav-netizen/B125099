@@ -1,7 +1,6 @@
 # 📘 Object Oriented Programming - Lab 1
 
 <p align="center">
-
 ![Language](https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-blue?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/Semester-3rd-orange?style=for-the-badge)
 ![Topic](https://img.shields.io/badge/Lab-C%20Programming%20Revision-success?style=for-the-badge)
@@ -25,11 +24,11 @@ The objective of this lab is to revise the fundamentals of **C Programming**, in
 > **Institute:** International Institute of Information Technology, Bhubaneswar  
 > **Department:** Computer Science and Engineering  
 > **Course:** Object Oriented Programming Laboratory  
-> **Lab:** 1 – C Programming Revision OOP_LAB_1_CSE_B1.pdf
+> **Lab:** 1 – C Programming Revision ([OOP_LAB_1_CSE_B1.pdf](./OOP_LAB_1_CSE_B1.pdf))
 
 ---
 
-# 📂 Folder Structure
+## 📂 Folder Structure
 
 ```text
 LAB1/
@@ -78,10 +77,9 @@ LAB1/
 │
 └── README.md
 ```
-```
 ---
 
-# 🤖 Automation Script
+## 🤖 Automation Script
 
 This repository includes a helper script, `main.py`, to automate testing of every program in the lab.
 
@@ -99,7 +97,7 @@ This allows all programs to be compiled, tested, and documented with a single co
 
 ---
 
-# 📝 Programs Included
+## 📝 Programs Included
 
 | No. | Program | Language | Concepts | Code |
 |:--:|---------|:--------:|----------|:----:|
@@ -116,7 +114,7 @@ This allows all programs to be compiled, tested, and documented with a single co
 
 ---
 
-# 🎯 Topics Covered
+## 🎯 Topics Covered
 
 - ✅ Arrays
 - ✅ Functions
@@ -131,7 +129,7 @@ This allows all programs to be compiled, tested, and documented with a single co
 
 ---
 
-# 🛠️ Compilation
+## 🛠️ Compilation
 
 ### C++ Programs (Questions 1–5)
 
@@ -149,7 +147,7 @@ gcc main.c -o main
 
 ---
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Through this lab, I practiced:
 
@@ -162,19 +160,20 @@ Through this lab, I practiced:
 
 ---
 
-# 📄 Lab Questions
+## 📄 Lab Questions
 
-The programs in this repository are based on the **OOP Laboratory – Lab 1** assignment covering ten revision exercises in C programming before beginning Object-Oriented Programming. OOP_LAB_1_CSE_B1.pdf
+The programs in this repository are based on the **OOP Laboratory – Lab 1** assignment covering ten revision exercises in C programming before beginning Object-Oriented Programming.
+
+📄 **Assignment PDF:** [OOP_LAB_1_CSE_B1.pdf](./OOP_LAB_1_CSE_B1.pdf)
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Rishav Kumar**
+**Rishav Kumar**  
 
-B.Tech CSE  
+B.Tech in Computer Science & Engineering  
 International Institute of Information Technology, Bhubaneswar
-
 ---
 
 <p align="center">
