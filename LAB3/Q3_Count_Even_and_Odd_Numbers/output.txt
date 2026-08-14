@@ -1,0 +1,8 @@
+Enter the size of the array: 5
+Enter 5 elements:
+1 2 3 4 5 
+
+--- Results ---
+Array: {1, 2, 3, 4, 5}
+Even numbers count: 2
+Odd numbers count: 3
