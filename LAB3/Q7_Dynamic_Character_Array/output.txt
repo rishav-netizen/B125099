@@ -1,0 +1,9 @@
+Enter the max size of the string: 10
+Enter a string: hello %^12 
+
+--- String Analysis ---
+Vowels: 2
+Consonants: 3
+Digits: 2
+Spaces: 1
+Special Characters: 2
