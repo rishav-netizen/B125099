@@ -1,5 +1,8 @@
-Enter the size of the array: 5
-Enter 5 elements:
-1 2 3 4 5 
-Entered array: {1, 2, 3, 4, 5}
-After reversing: {5, 4, 3, 2, 1}
+Enter first number: 6
+Enter second number: 4
+
+--- Results ---
+Sum: 10
+Difference: 2
+Product: 24
+Quotient: 1.5
