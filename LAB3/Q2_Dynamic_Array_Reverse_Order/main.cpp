@@ -22,9 +22,10 @@ int main() {
     Reverse(arr, n);
     cout << "After reversing: ";
     Display(arr, n);
+
     // Properly deallocate the dynamically allocated memory
     delete[] arr;
-
+    arr = nullptr;
     return 0;
 }
 
