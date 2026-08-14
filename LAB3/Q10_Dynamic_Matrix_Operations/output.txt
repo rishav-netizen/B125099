@@ -1,0 +1,17 @@
+Enter number of rows (m): 3
+Enter number of columns (n): 4
+
+Enter elements of Matrix 1 (3x4):
+1 2 3 4 
+1 1 1 1 
+4 3 2 1 
+
+Enter elements of Matrix 2 (3x4):
+2 4 5 6 
+1 2 1 1 
+0 0 1 2
+
+--- Resulting Matrix (Addition) ---
+3       6       8       10
+2       3       2       2
+4       3       3       3
