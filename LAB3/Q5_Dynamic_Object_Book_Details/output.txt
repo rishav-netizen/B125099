@@ -1,0 +1,10 @@
+Enter Book ID: 101
+Enter Book Title: Clean Code
+Enter Author Name: Robert C. Martin
+Enter Price: 599.99
+
+--- Book Details ---
+ID: 101
+Title: Clean Code
+Author: Robert C. Martin
+Price: ₹599.99
