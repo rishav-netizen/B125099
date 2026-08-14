@@ -66,6 +66,19 @@ OOP/
 │   ├── Q10_WaterBillCalculator
 │   └── README.md
 │
+├── 📁 LAB3
+│   ├── Q1_Dynamic_Number_Operations
+│   ├── Q2_Dynamic_Array_Reverse_Order
+│   ├── Q3_Count_Even_and_Odd_Numbers
+│   ├── Q4_Dynamic_Array_Search_an_Element
+│   ├── Q5_Dynamic_Object_Book_Details
+│   ├── Q6_Dynamic_Array_of_Objects_Product_Details
+│   ├── Q7_Dynamic_Character_Array
+│   ├── Q8_Dynamic_Array_with_Function_Processing
+│   ├── Q9_Dynamic_Employee_Records
+│   ├── Q10_Dynamic_Matrix_Operations
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -77,6 +90,7 @@ OOP/
 |:--:|---------|-------------|-----------|
 | 📘 Lab 1 | C Programming Revision | Arrays, Pointers, Structures and Dynamic Memory | **[Open →](./LAB1/README.md)** |
 | 📗 Lab 2 | Classes, Objects & Member Functions | Introduction to Object-Oriented Programming using C++ | **[Open →](./LAB2/README.md)** |
+| 📙 Lab 3 | Dynamic Memory Allocation | Dynamic variables, arrays, objects, strings, and matrices in C++ | **[Open →](./LAB3/README.md)** |
 
 ---
 
@@ -104,6 +118,10 @@ OOP/
 - Constructors (Upcoming)
 - Basic OOP Design
 - Real-world Programming Problems
+- Dynamic Memory Allocation with `new` and `delete`
+- Dynamic Arrays and Pointer-Based Functions
+- Dynamic Objects and Arrays of Objects
+- Dynamic 2D Arrays (Matrices)
 
 ---
 
@@ -113,7 +131,7 @@ OOP/
 |:---:|:------:|
 | ✅ Lab 1 | Completed |
 | ✅ Lab 2 | Completed |
-| ⏳ Lab 3 | Coming Soon |
+| ✅ Lab 3 | Completed |
 | ⏳ Lab 4 | Coming Soon |
 | ⏳ Lab 5 | Coming Soon |
 | ⏳ Lab 6 | Coming Soon |
@@ -149,6 +167,12 @@ or
 cd LAB2
 ```
 
+or
+
+```bash
+cd LAB3
+```
+
 Compile a C++ program
 
 ```bash
@@ -178,11 +202,11 @@ gcc main.c -o main
 # 📅 Current Progress
 
 ```
-████████████████████░░░░░░░░░░░░░░░ 20%
+██████████████████████████████░░░░░░ 30%
 
 ✔ LAB 1
 ✔ LAB 2
-○ LAB 3
+✔ LAB 3
 ○ LAB 4
 ○ LAB 5
 ○ LAB 6
