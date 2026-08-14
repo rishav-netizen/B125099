@@ -1,0 +1,26 @@
+Enter the number of products: 3
+
+--- Product 1 ---
+Enter Product ID: 101
+Enter Product Name: Wireless Mouse
+Enter Price: Wireless Mouse
+Enter Quantity: 2
+
+--- Product 2 ---
+Enter Product ID: 102
+Enter Product Name: Mechanical Keyboard
+Enter Price: 3499
+Enter Quantity: 1
+
+--- Product 3 ---
+Enter Product ID: 103
+Enter Product Name: USB-C Cable
+Enter Price: 299.75
+Enter Quantity: 5
+
+--- Inventory Details ---
+Product: Wireless Mouse (ID: 101) | Total Cost: $1599
+Product: Mechanical Keyboard (ID: 102) | Total Cost: $3499
+Product: USB-C Cable (ID: 103) | Total Cost: $1506.25
+
+Overall Inventory Value: $6604.25
