@@ -1,0 +1,20 @@
+Enter the number of employees: 2
+
+--- Employee 1 ---
+Enter Employee ID: 101
+Enter Employee Name: Ananya Sharma
+Enter Salary: 52000
+
+--- Employee 2 ---
+Enter Employee ID: 103
+Enter Employee Name: Ramesh Jaiswal
+Enter Salary: 32000
+
+--- All Employee Details ---
+ID: 101 | Name: Ananya Sharma | Salary: ₹52000
+ID: 103 | Name: Ramesh Jaiswal | Salary: ₹32000
+
+--- Statistics ---
+Employee with Highest Salary:
+ID: 101 | Name: Ananya Sharma | Salary: ₹52000
+Average Salary: ₹42000
