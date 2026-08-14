@@ -58,6 +58,7 @@ int main() {
 
     // Release memory
     delete[] arr;
-
+    arr = nullptr;
+    
     return 0;
 }
