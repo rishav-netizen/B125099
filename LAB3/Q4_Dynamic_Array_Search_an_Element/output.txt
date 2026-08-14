@@ -1,0 +1,5 @@
+Enter the size of the array: 5
+Enter 5 elements:
+1 2 3 4 5 
+Enter element to search: 9
+Element not found!
