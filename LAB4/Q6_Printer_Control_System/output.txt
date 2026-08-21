@@ -1,0 +1,16 @@
+Enter printer name: HP Sonic
+Enter pages printed: 45
+Enter ink level (%): 98
+Enter power status (1 for ON, 0 for OFF): 1
+
+Printer Information:
+Printer: HP Sonic
+Pages Printed: 45
+Ink Level: 98%
+Power: ON
+
+After Changes:
+Printer: HP Sonic
+Pages Printed: 0
+Ink Level: 75.5%
+Power: OFF
