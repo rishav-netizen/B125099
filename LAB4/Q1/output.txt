@@ -1,5 +1,3 @@
-./main 
-
 City: Bhubaneswar
 Temperature: 32 °C
 Condition: Sunny
