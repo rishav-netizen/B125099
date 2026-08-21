@@ -1,37 +1,38 @@
 # 💻 Object-Oriented Programming Laboratory
 
 <p align="center">
-
-![Language](https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-blue?style=for-the-badge)
-![University](https://img.shields.io/badge/IIIT-Bhubaneswar-orange?style=for-the-badge)
-![Course](https://img.shields.io/badge/Course-OOP-success?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-3rd-purple?style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-M4-black?style=for-the-badge&logo=apple&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="Language">
+  <img src="https://img.shields.io/badge/Course-OOP%20Laboratory-success?style=for-the-badge&logo=bookstack" alt="Course">
+  <img src="https://img.shields.io/badge/Semester-3rd%20Semester-purple?style=for-the-badge&logo=mortarboard" alt="Semester">
+  <img src="https://img.shields.io/badge/University-IIIT%20Bhubaneswar-orange?style=for-the-badge&logo=googleclassroom" alt="University">
+  <img src="https://img.shields.io/badge/Total%20Labs-04%20Completed-**brightgreen**?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
 </p>
 
 <p align="center">
-A collection of all my laboratory assignments for the <b>Object-Oriented Programming (OOP)</b> course at
-<b>International Institute of Information Technology, Bhubaneswar</b>.
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Compiler-GCC%20%2F%20Clang-brightgreen?style=flat-square&logo=gnu" alt="Compiler">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/macOS-Apple%20Silicon%20(M4)-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white" alt="Terminal">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+<p align="center">
+  A comprehensive collection of laboratory assignments and coursework solutions for the <b>Object-Oriented Programming (OOP)</b> laboratory course at <br>
+  <b>Department of Computer Science and Engineering, International Institute of Information Technology, Bhubaneswar</b>.
 </p>
 
 ---
 
 # 📖 About
 
-This repository contains all the laboratory assignments completed during my **Object-Oriented Programming Laboratory** course.
+This repository contains all the practical laboratory assignments completed during the **Object-Oriented Programming Laboratory** course.
 
-The repository is organized lab-wise, with each lab containing individual solutions for every question along with a dedicated README explaining the objectives and topics covered.
+The repository is organized in a modular, lab-wise structure. Each laboratory module contains individual solutions for every task along with sample test execution outputs, source code, and a dedicated README detailing theoretical foundations and implementation logic.
 
-As the semester progresses, this repository will continue to grow with additional lab assignments.
+As the semester progresses, this repository will continue to be updated with new lab modules.
 
 ---
 
@@ -40,148 +41,159 @@ As the semester progresses, this repository will continue to grow with additiona
 ```text
 OOP/
 │
-├── 📁 LAB1
-│   ├── 01_ArrayStatistics
-│   ├── 02_ReverseArray
-│   ├── 03_LinearSearch
-│   ├── 04_SwapUsingPointers
-│   ├── 05_SumOfArrayUsingPointerArithmetic
-│   ├── 06_StudentStruct
-│   ├── 07_StudentAnalysis
-│   ├── 08_DynamicMemoryAllocation
-│   ├── 09_PointerToStruct
-│   ├── 10_DynamicStudentRecords
+├── 📁 LAB1/                             # Lab 1: C Programming Revision
+│   ├── 01_ArrayStatistics/
+│   ├── 02_ReverseArray/
+│   ├── 03_LinearSearch/
+│   ├── 04_SwapUsingPointers/
+│   ├── 05_SumOfArrayUsingPointerArithmetic/
+│   ├── 06_StudentStruct/
+│   ├── 07_StudentAnalysis/
+│   ├── 08_DynamicMemoryAllocation/
+│   ├── 09_PointerToStruct/
+│   ├── 10_DynamicStudentRecords/
+│   ├── OOP_LAB_1_CSE_B1.pdf
 │   └── README.md
 │
-├── 📁 LAB2
-│   ├── Q1_CarInformationSystem
-│   ├── Q2_SquareCalculator
-│   ├── Q3_TemperatureConverter
-│   ├── Q4_HotelRoomBooking
-│   ├── Q5_MobileRechargeSystem
-│   ├── Q6_TimeAddition
-│   ├── Q7_MovieTicketBooking
-│   ├── Q8_HostelFeeManagement
-│   ├── Q9_CricketScoreAnalyzer
-│   ├── Q10_WaterBillCalculator
+├── 📁 LAB2/                             # Lab 2: Classes, Objects & Member Functions
+│   ├── Q1_CarInformationSystem/
+│   ├── Q2_SquareCalculator/
+│   ├── Q3_TemperatureConverter/
+│   ├── Q4_HotelRoomBooking/
+│   ├── Q5_MobileRechargeSystem/
+│   ├── Q6_TimeAddition/
+│   ├── Q7_MovieTicketBooking/
+│   ├── Q8_HostelFeeManagement/
+│   ├── Q9_CricketScoreAnalyzer/
+│   ├── Q10_WaterBillCalculator/
+│   ├── OOP_LAB_2_CSE_B1.pdf
 │   └── README.md
 │
-├── 📁 LAB3
-│   ├── Q1_Dynamic_Number_Operations
-│   ├── Q2_Dynamic_Array_Reverse_Order
-│   ├── Q3_Count_Even_and_Odd_Numbers
-│   ├── Q4_Dynamic_Array_Search_an_Element
-│   ├── Q5_Dynamic_Object_Book_Details
-│   ├── Q6_Dynamic_Array_of_Objects_Product_Details
-│   ├── Q7_Dynamic_Character_Array
-│   ├── Q8_Dynamic_Array_with_Function_Processing
-│   ├── Q9_Dynamic_Employee_Records
-│   ├── Q10_Dynamic_Matrix_Operations
+├── 📁 LAB3/                             # Lab 3: Dynamic Memory Allocation in C++
+│   ├── Q1_Dynamic_Number_Operations/
+│   ├── Q2_Dynamic_Array_Reverse_Order/
+│   ├── Q3_Count_Even_and_Odd_Numbers/
+│   ├── Q4_Dynamic_Array_Search_an_Element/
+│   ├── Q5_Dynamic_Object_Book_Details/
+│   ├── Q6_Dynamic_Array_of_Objects_Product_Details/
+│   ├── Q7_Dynamic_Character_Array/
+│   ├── Q8_Dynamic_Array_with_Function_Processing/
+│   ├── Q9_Dynamic_Employee_Records/
+│   ├── Q10_Dynamic_Matrix_Operations/
+│   ├── main.py
 │   └── README.md
 │
-└── README.md
+├── 📁 LAB4/                             # Lab 4: Friend Functions & Friend Classes
+│   ├── Q1_Weather_Report/
+│   ├── Q2_Two_Factor_Login/
+│   ├── Q3_Compare_Two_Digital_Cameras/
+│   ├── Q4_Electricity_Usage_Alert/
+│   ├── Q5_Event_Registration_Verification/
+│   ├── Q6_Printer_Control_System/
+│   ├── Q7_Museum_Exhibit_Controller/
+│   ├── Q8_Vehicle_Service_Tracker/
+│   ├── Q9_Digital_Wallet_Controller/
+│   ├── Q10_Classroom_Attendance_Manager/
+│   ├── OOP_LAB_4_B1.pdf
+│   ├── main.py
+│   └── README.md
+│
+└── README.md                            # Central Repository Documentation
 ```
 
 ---
 
 # 📚 Laboratory Index
 
-| Lab | Title | Description | Directory |
-|:--:|---------|-------------|-----------|
-| 📘 Lab 1 | C Programming Revision | Arrays, Pointers, Structures and Dynamic Memory | **[Open →](./LAB1/README.md)** |
-| 📗 Lab 2 | Classes, Objects & Member Functions | Introduction to Object-Oriented Programming using C++ | **[Open →](./LAB2/README.md)** |
-| 📙 Lab 3 | Dynamic Memory Allocation | Dynamic variables, arrays, objects, strings, and matrices in C++ | **[Open →](./LAB3/README.md)** |
+| Lab | Topic | Description | Tasks | Lab Manual | Directory |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 📘 **Lab 1** | **C Programming Revision** | Arrays, pointers, pointer arithmetic, structures, dynamic memory allocation (`malloc`/`free`) | `10 / 10` | [PDF](./LAB1/OOP_LAB_1_CSE_B1.pdf) | [**Open →**](./LAB1/README.md) |
+| 📗 **Lab 2** | **Classes, Objects & Member Functions** | Introduction to OOP in C++, data encapsulation, class member functions, real-world models | `10 / 10` | [PDF](./LAB2/OOP_LAB_2_CSE_B1.pdf) | [**Open →**](./LAB2/README.md) |
+| 📙 **Lab 3** | **Dynamic Memory Allocation in C++** | Heap memory allocation using `new` & `delete`, dynamic arrays, objects, character arrays, matrices | `10 / 10` | — | [**Open →**](./LAB3/README.md) |
+| 📕 **Lab 4** | **Friend Functions & Friend Classes** | Accessing private members via friend functions, cross-class bridging, manager/controller patterns | `10 / 10` | [PDF](./LAB4/OOP_LAB_4_B1.pdf) | [**Open →**](./LAB4/README.md) |
 
 ---
 
 # 🎯 Concepts Covered
 
-## 🔹 C Programming
-
-- Arrays
-- Functions
-- Searching Algorithms
-- Pointers
-- Pointer Arithmetic
-- Structures
-- Dynamic Memory Allocation
-- `malloc()` and `free()`
+### 🔹 Procedural C Fundamentals
+- **Arrays & Traversal:** Multi-element arrays, sequential processing, and linear search.
+- **Pointers & Arithmetic:** Memory addresses, indirection, pointer-based swaps, and array offsets.
+- **Structures:** Heterogeneous user-defined types, nested structs, and arrays of structures.
+- **Dynamic Memory Allocation in C:** Runtime allocation with `malloc()`, `calloc()`, and memory deallocation using `free()`.
 
 ---
 
-## 🔹 C++ Programming
-
-- Classes
-- Objects
-- Member Functions
-- Encapsulation
-- Constructors (Upcoming)
-- Basic OOP Design
-- Real-world Programming Problems
-- Dynamic Memory Allocation with `new` and `delete`
-- Dynamic Arrays and Pointer-Based Functions
-- Dynamic Objects and Arrays of Objects
-- Dynamic 2D Arrays (Matrices)
+### 🔹 Object-Oriented Programming in C++
+- **Classes & Object Modeling:** Defining real-world entities into modular object instances.
+- **Encapsulation & Access Specifiers:** Data hiding using `private` members and controlled `public` interfaces.
+- **Member Functions:** Methods operating directly on class instances using the implicit `this` pointer.
+- **C++ Dynamic Memory Allocation:** Type-safe dynamic memory management with `new` and `delete` / `delete[]`.
+- **Dynamic Objects & Object Arrays:** Instantiating objects dynamically on the heap with arrow (`->`) operator access.
+- **Dynamic 2D Matrices:** Allocating and managing 2D pointer-to-pointer (`int**`) matrices dynamically.
+- **Friend Functions:** Non-member functions granted access to private member data for cross-object comparisons and evaluations.
+- **Friend Classes:** Controller / Manager design patterns allowing full state inspection and manipulation across distinct classes.
+- **Constructors & Destructors:** *(Upcoming)*
+- **Inheritance & Polymorphism:** *(Upcoming)*
 
 ---
 
 # 📈 Repository Progress
 
-| Lab | Status |
-|:---:|:------:|
-| ✅ Lab 1 | Completed |
-| ✅ Lab 2 | Completed |
-| ✅ Lab 3 | Completed |
-| ⏳ Lab 4 | Coming Soon |
-| ⏳ Lab 5 | Coming Soon |
-| ⏳ Lab 6 | Coming Soon |
+```text
+Progress: [████████████████░░░░░░░░░░░░░░] 40% (4 / 10 Modules)
+```
+
+| Lab Module | Topic | Status | Solved |
+|:---|:---|:---:|:---:|
+| **Lab 01** | C Programming Revision | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
+| **Lab 02** | Classes, Objects & Member Functions | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
+| **Lab 03** | Dynamic Memory Allocation (`new`/`delete`) | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
+| **Lab 04** | Friend Functions & Friend Classes | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
+| **Lab 05** | Constructors, Destructors & Overloading | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 06** | Inheritance & Polymorphism | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 07** | Virtual Functions & Abstract Classes | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 08** | Operator Overloading | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 09** | Templates & Exception Handling | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 10** | File Handling & Streams | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 
 ---
 
-# 🛠 Languages Used
+# 🛠 Languages & Toolchain
 
-| Language | Usage |
-|:--------:|------|
-| C | Revision of procedural programming concepts |
-| C++ | Object-Oriented Programming laboratory assignments |
+| Category | Details |
+|:---|:---|
+| **Languages** | C (C99/C11), C++ (C++17 / C++20 standard) |
+| **Compilers** | GCC 13+ / G++, Apple Clang 16+ |
+| **Environment** | Visual Studio Code, Terminal (Zsh) |
+| **Version Control** | Git & GitHub |
+| **Operating System** | macOS Sequoia (Apple Silicon M4) |
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Getting Started & Compilation
 
-Clone the repository
-
+### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/OOP.git
+git clone https://github.com/rishav-netizen/OOP-LAB-SEM3.git
+cd OOP-LAB-SEM3
 ```
 
-Go to the desired lab
-
+### 2. Navigate to the desired lab and question
 ```bash
-cd LAB1
+# Example: Lab 4, Question 1 (Weather Report)
+cd LAB4/Q1_Weather_Report
 ```
 
-or
+### 3. Compile and Run
 
+#### C++ Program:
 ```bash
-cd LAB2
-```
-
-or
-
-```bash
-cd LAB3
-```
-
-Compile a C++ program
-
-```bash
-g++ main.cpp -o main
+g++ -std=c++17 main.cpp -o main
 ./main
 ```
 
-Compile a C program
-
+#### C Program:
 ```bash
 gcc main.c -o main
 ./main
@@ -189,49 +201,22 @@ gcc main.c -o main
 
 ---
 
-# 📌 Repository Goals
+# 📌 Repository Standards
 
-- Maintain clean and readable code.
-- Practice object-oriented programming concepts.
-- Keep every lab well documented.
-- Track learning progress throughout the semester.
-- Build a complete collection of OOP laboratory assignments.
-
----
-
-# 📅 Current Progress
-
-```
-██████████████████████████████░░░░░░ 30%
-
-✔ LAB 1
-✔ LAB 2
-✔ LAB 3
-○ LAB 4
-○ LAB 5
-○ LAB 6
-○ LAB 7
-○ LAB 8
-○ LAB 9
-○ LAB 10
-```
+- **Strict Encapsulation:** Class data members are kept `private`, exposing functionality through member functions or explicit `friend` contracts.
+- **Memory Safety:** Every dynamically allocated resource is properly deallocated to prevent memory leaks.
+- **Clean Structure:** Each problem has its own directory containing the source code and verifiable execution output (`output.txt`).
+- **Comprehensive Documentation:** Every lab has an in-depth README with conceptual deep dives, tables, diagrams, and problem walkthroughs.
 
 ---
 
 # 👨‍💻 Author
 
-### **Rishav Kumar**
-
-**B.Tech — Computer Science & Engineering**
-
-International Institute of Information Technology, Bhubaneswar
-
----
-
 <div align="center">
 
-### ⭐ If you like this repository, consider giving it a star!
+### **Rishav Kumar**
 
-Made with ❤️ while learning C and C++.
+**B.Tech — Computer Science & Engineering**  
+*International Institute of Information Technology, Bhubaneswar*  
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-rishav--netizen-181717?style=flat-square&logo=github)](https://github.com/rishav-netizen)
