@@ -1,0 +1,12 @@
+Enter class name: CSE B
+Enter total students: 100
+Enter present students: 90
+Enter attendance status (1 for Completed, 0 for Not Completed): 1
+
+--CLASS DETAILS--
+Class: CSE B
+Total Students: 100
+Present Students: 90
+Attendance: Completed
+Absent Students: 10
+Attendance Status: Completed
