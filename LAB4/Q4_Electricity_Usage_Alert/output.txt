@@ -1,0 +1,9 @@
+Enter meter number: 2231
+Enter consumer name: Ramesh Jaiswal
+Enter units consumed: 129
+
+Customer Details are as follows: 
+Meter Number: 2231
+Consumer Name: Ramesh Jaiswal
+Units Consumed: 129
+Usage: Moderate Usage

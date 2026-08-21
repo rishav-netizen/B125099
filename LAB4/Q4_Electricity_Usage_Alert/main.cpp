@@ -1,24 +1,43 @@
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 class ElectricMeter {
-private:
-    int meterNumber;
-    string consumerName;
-    int unitsConsumed;
+    private:
+        int meterNumber;
+        string consumerName;
+        int unitsConsumed;
 
-public:
-    ElectricMeter(int number, string name, int units) {
-        meterNumber = number;
-        consumerName = name;
-        unitsConsumed = units;
-    }
+    public:
+        ElectricMeter()
+        {
 
-    friend void checkUsage(ElectricMeter e);
+        }
+
+        ElectricMeter(int number, string name, int units) {
+            meterNumber = number;
+            consumerName = name;
+            unitsConsumed = units;
+        }
+
+        void Input() {
+            cout << "Enter meter number: ";
+            cin >> meterNumber;
+
+            cout << "Enter consumer name: ";
+            cin.ignore();
+            getline(cin, consumerName);
+
+            cout << "Enter units consumed: ";
+            cin >> unitsConsumed;
+        }
+
+        friend void checkUsage(ElectricMeter e);
 };
 
 void checkUsage(ElectricMeter e) {
+    cout <<  "\nCustomer Details are as follows: \n";
     cout << "Meter Number: " << e.meterNumber << endl;
     cout << "Consumer Name: " << e.consumerName << endl;
     cout << "Units Consumed: " << e.unitsConsumed << endl;
@@ -32,7 +51,9 @@ void checkUsage(ElectricMeter e) {
 }
 
 int main() {
-    ElectricMeter e(101, "Rishav", 250);
+    ElectricMeter e;
+
+    e.Input();
     checkUsage(e);
 
     return 0;
