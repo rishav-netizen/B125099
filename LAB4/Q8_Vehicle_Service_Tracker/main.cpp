@@ -5,46 +5,46 @@ using namespace std;
 class ServiceManager;
 
 class VehicleService {
-private:
-    string vehicleNumber;
-    string ownerName;
-    bool serviceDue;
-    int lastServiceKm;
+    private:
+        string vehicleNumber;
+        string ownerName;
+        bool serviceDue;
+        int lastServiceKm;
 
-public:
-    VehicleService(string number, string owner, bool due, int km) {
-        vehicleNumber = number;
-        ownerName = owner;
-        serviceDue = due;
-        lastServiceKm = km;
-    }
+    public:
+        VehicleService(string number, string owner, bool due, int km) {
+            vehicleNumber = number;
+            ownerName = owner;
+            serviceDue = due;
+            lastServiceKm = km;
+        }
 
-    friend class ServiceManager;
+        friend class ServiceManager;
 };
 
 class ServiceManager {
-public:
-    void displayInfo(VehicleService &v) {
-        cout << "Vehicle Number: " << v.vehicleNumber << endl;
-        cout << "Owner: " << v.ownerName << endl;
-        cout << "Last Service: " << v.lastServiceKm << " km" << endl;
-        cout << "Service Due: " << (v.serviceDue ? "Yes" : "No") << endl;
-    }
+    public:
+        void displayInfo(VehicleService &v) {
+            cout << "Vehicle Number: " << v.vehicleNumber << endl;
+            cout << "Owner: " << v.ownerName << endl;
+            cout << "Last Service: " << v.lastServiceKm << " km" << endl;
+            cout << "Service Due: " << (v.serviceDue ? "Yes" : "No") << endl;
+        }
 
-    void completeService(VehicleService &v) {
-        v.serviceDue = false;
-    }
+        void completeService(VehicleService &v) {
+            v.serviceDue = false;
+        }
 
-    void updateKm(VehicleService &v, int km) {
-        v.lastServiceKm = km;
-    }
+        void updateKm(VehicleService &v, int km) {
+            v.lastServiceKm = km;
+        }
 
-    void checkService(VehicleService &v) {
-        if (v.serviceDue)
-            cout << "Vehicle requires servicing." << endl;
-        else
-            cout << "Vehicle does not require servicing." << endl;
-    }
+        void checkService(VehicleService &v) {
+            if (v.serviceDue)
+                cout << "Vehicle requires servicing." << endl;
+            else
+                cout << "Vehicle does not require servicing." << endl;
+        }
 };
 
 int main() {

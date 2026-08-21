@@ -1,0 +1,8 @@
+Vehicle Number: OD02AB1234
+Owner: Rishav
+Last Service: 15000 km
+Service Due: Yes
+Vehicle requires servicing.
+
+After Service:
+Vehicle does not require servicing.
