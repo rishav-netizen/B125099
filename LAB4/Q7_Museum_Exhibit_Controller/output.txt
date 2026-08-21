@@ -1,0 +1,11 @@
+Enter exhibit name: Palm Island
+Enter exhibit ID: 2342
+Enter visitor count: 23 
+Enter display status (1 for Open, 0 for Closed): 1
+
+Data Regarding Exibit
+Exhibit: Palm Island
+Exhibit ID: 2342
+Visitors: 73
+Status: Open
+Exhibit is Open
