@@ -1,0 +1,18 @@
+Enter camera 1 details: 
+Brand: Sony 
+Model: A550
+Megapixels: 250
+Storage(GB): 64
+
+Enter camera 2 details: 
+Brand: Red Hydrogen
+Model: H1B
+Megapixels: 450
+Storage(GB): 128
+
+
+Details of the better camera are as follows:
+Brand: Red Hydrogen
+Model: H1B
+Megapixels: 450
+Storage: 128 GB
