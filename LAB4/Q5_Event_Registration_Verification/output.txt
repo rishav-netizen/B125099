@@ -1,0 +1,8 @@
+Enter participant name: Ramesh Pandey
+Enter age: 45
+Enter registration status: ActIvE
+
+Participant: Ramesh Pandey
+Age: 45
+Registration Status: Active
+Eligible
