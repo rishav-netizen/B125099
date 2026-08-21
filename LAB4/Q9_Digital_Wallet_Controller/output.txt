@@ -1,0 +1,20 @@
+Enter user name: Ramesh Pandey
+Enter wallet balance: 20000
+Enter wallet status (1 for Active, 0 for Disabled): 1
+
+
+--USER DETAILS--
+User: Ramesh Pandey
+Balance: Rs. 20000
+Status: Active
+Enter amount to add: 4000
+Enter amount to use: 3000
+
+After Transactions:
+
+
+--USER DETAILS--
+User: Ramesh Pandey
+Balance: Rs. 21000
+Status: Active
+Wallet Status: Disabled
