@@ -1,0 +1,9 @@
+Enter two integers: 4 5
+4 is closer to zero than 5
+
+Enter two floating-point values: 4.5 6.7
+4.5 is closer to zero than 6.7
+
+Enter the size of the integer array: 5
+Enter 5 elements: 1 2 3 4 5 
+1 is the element closest to zero in the array.
