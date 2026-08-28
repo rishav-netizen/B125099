@@ -1,0 +1,9 @@
+Enter an integer: 5
+5 is a positive number!
+
+Enter a character: R
+R is an uppercase letter!
+
+Enter a string (character array without spaces): asfdasdf
+Enter a character to search for: d
+d was found in the character array at index 3
