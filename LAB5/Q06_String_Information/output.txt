@@ -1,0 +1,8 @@
+Enter a string (character array without spaces): hello
+Enter a character to search for: e
+Enter the number of positions (k) to examine: 4
+
+--- Results ---
+Length of the character array: 5
+Occurrence of 'e' in the string: 1
+Occurrence of 'e' within the first 4 positions: 1
