@@ -1,0 +1,8 @@
+Enter the side of the square: 4
+Area of the square: 16 sq. units
+
+Enter the length and breadth of the rectangle: 3 5
+Area of the rectangle: 15 sq. units
+
+Enter the radius of the circle: 7
+Area of the circle: 153.938 sq. units
