@@ -1,0 +1,8 @@
+--- Demonstrating inspect() with an integer variable ---
+Value of integer variable: 42
+
+--- Demonstrating inspect() with an integer pointer ---
+Value stored at integer pointer: 42
+
+--- Demonstrating inspect() with an integer array ---
+Elements of the integer array: {10, 20, 30, 40, 50}
