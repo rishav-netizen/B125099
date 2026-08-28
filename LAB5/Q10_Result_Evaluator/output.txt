@@ -1,0 +1,15 @@
+Enter two integers: 3 4
+Average of two integers (3, 4): 3.5
+
+Enter a third integer: 5
+Average of three integers (3, 4, 5): 4
+
+Enter two floating-point values: 2.3 5.6
+Average of two floating-point values (2.3, 5.6): 3.95
+
+Enter the size of the integer array: 4  
+Enter 4 elements: 1 2 3 5 
+Average of array elements: 2.75
+
+Enter two integers to evaluate through pointers: 5 6 
+Average of two integers from pointers (5, 6): 5.5
