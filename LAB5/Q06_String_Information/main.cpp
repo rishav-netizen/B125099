@@ -8,7 +8,13 @@ void information(const char arr[], char target, int k);
 
 int main()
 {
-    char str[100];
+    int max_len;
+    cout << "Enter the maximum string length you want to allocate: ";
+    cin >> max_len;
+
+    // Dynamically allocate memory for the character array
+    char* str = new char[max_len + 1];
+
     cout << "Enter a string (character array without spaces): ";
     cin >> str;
     
@@ -24,6 +30,9 @@ int main()
     information(str);
     information(str, ch);
     information(str, ch, k);
+    
+    // Free the dynamically allocated memory
+    delete[] str;
     
     return 0;
 }
