@@ -1,0 +1,8 @@
+Enter distance kilometers: 2
+Enter distance in meters: 400
+Enter floating point distance in kilometers: 4.5
+
+--- Distance Converter ---
+2 km = 2000 meters
+400 meters = 40000 centimeters
+4.5 km = 4500 meters
