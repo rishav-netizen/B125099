@@ -1,0 +1,13 @@
+Enter an integer and the amount to increase: 4 5
+Before update: 4
+After update: 9
+
+Enter a floating-point value and the amount to increase: 3.4 0.6
+Before update: 3.4
+After update: 4
+
+Enter size of integer array: 4
+Enter 4 elements: 1 2 3 4 
+Enter the amount to increase every element by: 4
+Before update: 1 2 3 4 
+After update: 5 6 7 8 
