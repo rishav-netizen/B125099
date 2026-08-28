@@ -1,0 +1,12 @@
+Enter size of integer array: 5
+Enter 5 integer elements: 1 2 3 1 8
+
+Enter size of floating-point array: 5 
+Enter 5 floating-point elements: 1.2 3 4.5 6.7 9
+
+Enter value of k for integer array sum: 3
+
+Results:
+Sum of integer array elements: 15
+Sum of floating-point array elements: 24.4
+Sum of first 3 elements of integer array: 6
