@@ -1,0 +1,11 @@
+Enter two integers to swap (using references): 3 4
+Before swap: a = 3, b = 4
+After swap: a = 4, b = 3
+
+Enter two floating-point numbers to swap (using references): 4.5 6.7
+Before swap: x = 4.5, y = 6.7
+After swap: x = 6.7, y = 4.5
+
+Enter two integers to swap (using pointers): 2 4
+Before swap: p = 2, q = 4
+After swap: p = 4, q = 2
