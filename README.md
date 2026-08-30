@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Course-OOP%20Laboratory-success?style=for-the-badge&logo=bookstack" alt="Course">
   <img src="https://img.shields.io/badge/Semester-3rd%20Semester-purple?style=for-the-badge&logo=mortarboard" alt="Semester">
   <img src="https://img.shields.io/badge/University-IIIT%20Bhubaneswar-orange?style=for-the-badge&logo=googleclassroom" alt="University">
-  <img src="https://img.shields.io/badge/Total%20Labs-04%20Completed-**brightgreen**?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
+  <img src="https://img.shields.io/badge/Total%20Labs-05%20Completed-**brightgreen**?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
 </p>
 
 <p align="center">
@@ -98,6 +98,20 @@ OOP/
 │   ├── main.py
 │   └── README.md
 │
+├── 📁 LAB5/                             # Lab 5: Function Overloading
+│   ├── Q01_Distance_Converter/
+│   ├── Q02_Area_Calculator/
+│   ├── Q03_Character_Analyzer/
+│   ├── Q04_Array_Processing/
+│   ├── Q05_Swap_Values/
+│   ├── Q06_String_Information/
+│   ├── Q07_Nearest_Value/
+│   ├── Q08_Update_Array_Elements/
+│   ├── Q09_Data_Inspection_Using_Pointers/
+│   ├── Q10_Result_Evaluator/
+│   ├── OOP_LAB_5_B1.pdf
+│   └── README.md
+│
 └── README.md                            # Central Repository Documentation
 ```
 
@@ -109,8 +123,9 @@ OOP/
 |:---:|:---|:---|:---:|:---:|:---:|
 | 📘 **Lab 1** | **C Programming Revision** | Arrays, pointers, pointer arithmetic, structures, dynamic memory allocation (`malloc`/`free`) | `10 / 10` | [PDF](./LAB1/OOP_LAB_1_CSE_B1.pdf) | [**Open →**](./LAB1/README.md) |
 | 📗 **Lab 2** | **Classes, Objects & Member Functions** | Introduction to OOP in C++, data encapsulation, class member functions, real-world models | `10 / 10` | [PDF](./LAB2/OOP_LAB_2_CSE_B1.pdf) | [**Open →**](./LAB2/README.md) |
-| 📙 **Lab 3** | **Dynamic Memory Allocation in C++** | Heap memory allocation using `new` & `delete`, dynamic arrays, objects, character arrays, matrices | `10 / 10` | — | [**Open →**](./LAB3/README.md) |
+| 📙 **Lab 3** | **Dynamic Memory Allocation in C++** | Heap memory allocation using `new` & `delete`, dynamic arrays, objects, character arrays, matrices | `10 / 10` | [PDF](./LAB3/OOP_LAB_3_CSE_B1.pdf) | [**Open →**](./LAB3/README.md) |
 | 📕 **Lab 4** | **Friend Functions & Friend Classes** | Accessing private members via friend functions, cross-class bridging, manager/controller patterns | `10 / 10` | [PDF](./LAB4/OOP_LAB_4_B1.pdf) | [**Open →**](./LAB4/README.md) |
+| 📓 **Lab 5** | **Function Overloading** | Compile-time polymorphism, method signatures, parameter variations, array and pointer passing | `10 / 10` | [PDF](./LAB5/OOP_LAB_5_B1.pdf) | [**Open →**](./LAB5/README.md) |
 
 ---
 
@@ -133,6 +148,7 @@ OOP/
 - **Dynamic 2D Matrices:** Allocating and managing 2D pointer-to-pointer (`int**`) matrices dynamically.
 - **Friend Functions:** Non-member functions granted access to private member data for cross-object comparisons and evaluations.
 - **Friend Classes:** Controller / Manager design patterns allowing full state inspection and manipulation across distinct classes.
+- **Function Overloading:** Compile-time polymorphism by varying function signatures (number, type, or order of parameters).
 - **Constructors & Destructors:** *(Upcoming)*
 - **Inheritance & Polymorphism:** *(Upcoming)*
 
@@ -141,7 +157,7 @@ OOP/
 # 📈 Repository Progress
 
 ```text
-Progress: [████████████████░░░░░░░░░░░░░░] 40% (4 / 10 Modules)
+Progress: [████████████████████░░░░░░░░░░] 50% (5 / 10 Modules)
 ```
 
 | Lab Module | Topic | Status | Solved |
@@ -150,7 +166,7 @@ Progress: [████████████████░░░░░░░
 | **Lab 02** | Classes, Objects & Member Functions | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Lab 03** | Dynamic Memory Allocation (`new`/`delete`) | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Lab 04** | Friend Functions & Friend Classes | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
-| **Lab 05** | Constructors, Destructors & Overloading | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 05** | Function Overloading | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Lab 06** | Inheritance & Polymorphism | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 | **Lab 07** | Virtual Functions & Abstract Classes | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 | **Lab 08** | Operator Overloading | <span style="color:gray">⏳ *Coming Soon*</span> | — |
