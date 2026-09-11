@@ -1,0 +1,16 @@
+Enter instrument ID: 34
+Enter instrument name: Function Generator
+Enter access level: 5
+
+The data entered is: 
+ID: 34
+Name: Function Generator
+Access Level: 5
+Current access level: 5
+
+Enter the modified access level: 3
+
+After modification:
+ID: 34
+Name: Function Generator
+Access Level: 3

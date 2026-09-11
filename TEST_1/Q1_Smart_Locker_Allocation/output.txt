@@ -1,0 +1,16 @@
+Enter number of lockers: 3
+Enter code for locker 1: 213aas
+Enter code for locker 2: 543fsd
+Enter code for locker 3: 76dhfh
+
+Locker Details:
+Locker: 1 Occupied: 1 Code: 213aas
+Locker: 2 Occupied: 1 Code: 543fsd
+Locker: 3 Occupied: 1 Code: 76dhfh
+
+Enter position and new character to modify locker 1 code: 4 Z
+
+After modification:
+Locker: 1 Occupied: 1 Code: 213aZs
+Locker: 2 Occupied: 1 Code: 543fsd
+Locker: 3 Occupied: 1 Code: 76dhfh

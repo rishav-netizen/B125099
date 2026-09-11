@@ -1,0 +1,14 @@
+Enter size of queue 1: 3
+Enter size of queue 2: 4
+
+Enter IDs for queue 1: 1 2 0
+
+Enter IDs for queue 2: 9 84 6 77 
+
+Before exchange:
+Queue 1: 1 2 0 
+Queue 2: 9 84 6 77 
+
+After exchange:
+Queue 1: 9 84 6 77 
+Queue 2: 1 2 0 

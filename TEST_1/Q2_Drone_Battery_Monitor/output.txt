@@ -1,0 +1,21 @@
+Enter data for drone 1: 
+Enter the drone id: 3
+Enter the drone battery(%): 880
+Invalid input try again: 99
+Enter the flight hours: 67
+
+Enter data for drone 2: 
+Enter the drone id: 5
+Enter the drone battery(%): -8
+Invalid input try again: 70
+Enter the flight hours: 55
+
+Update drone 1 battery to: 100
+
+Update drone 2 battery and flight hours: 80 70
+
+Drone ID: 3 Battery: 100% Flight Hours: 67
+
+Drone ID: 5 Battery: 80% Flight Hours: 70
+
+Drone with ID: 3 has higher battery.

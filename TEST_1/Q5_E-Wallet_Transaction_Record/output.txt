@@ -1,0 +1,24 @@
+Enter details for Wallet 1:
+Enter Wallet ID: 3
+Enter initial balance: 4000
+
+Enter details for Wallet 2:
+Enter Wallet ID: 2
+Enter initial balance: 5000
+
+Wallet 1 Transaction
+Enter transaction amount (+ for deposit, - for withdrawal): 900
+
+Wallet 2 Transaction
+Enter transaction type (D for deposit, W for withdrawal): w     
+Enter amount: 1000
+
+Wallet Details:
+
+        Wallet ID: 3
+        Balance: 4900
+
+        Wallet ID: 2
+        Balance: 4000
+
+Wallet 3 has larger balance.
