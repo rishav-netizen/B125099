@@ -1,11 +1,16 @@
+<p align="center">
+  <img src="assets/oop-logo.png" alt="OOP Laboratory Logo" width="220" />
+</p>
+
 # 💻 Object-Oriented Programming Laboratory
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%20%7C%20C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="Language">
   <img src="https://img.shields.io/badge/Course-OOP%20Laboratory-success?style=for-the-badge&logo=bookstack" alt="Course">
   <img src="https://img.shields.io/badge/Semester-3rd%20Semester-purple?style=for-the-badge&logo=mortarboard" alt="Semester">
-  <img src="https://img.shields.io/badge/University-IIIT%20Bhubaneswar-orange?style=for-the-badge&logo=googleclassroom" alt="University">
-  <img src="https://img.shields.io/badge/Total%20Labs-05%20Completed-**brightgreen**?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
+  <img src="https://img.shields.io/badge/University-IIIT%20Bhubaneswar-orange?**style**=for-the-badge&logo=googleclassroom" alt="University">
+  <img src="https://img.shields.io/badge/Total%20Labs-05%20Completed-brightgreen?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
+  <img src="https://img.shields.io/badge/Lab%20Test-01%20Completed-crimson?style=for-the-badge&logo=target" alt="Lab Test Completed">
 </p>
 
 <p align="center">
@@ -112,6 +117,15 @@ OOP/
 │   ├── OOP_LAB_5_B1.pdf
 │   └── README.md
 │
+├── 📁 TEST_1/                           # Lab Test 1: Core OOP Concepts & Dynamic Memory
+│   ├── Q1_Smart_Locker_Allocation/      # Dynamic Object Array, Overloaded setCode()
+│   ├── Q2_Drone_Battery_Monitor/        # Dynamic Objects, Overloaded update(), Friend Function
+│   ├── Q3_Movie_Queue_Display/          # Dynamic Queue Array, Friend Function exchange()
+│   ├── Q4_Laboratory_Instrument_Access/ # Friend Class LabSupervisor, Private State Access
+│   ├── Q5_E-Wallet_Transaction_Record/  # Dynamic Float Array, Overloaded transaction()
+│   ├── OOP_LAB_TEST_B1_SET_A.pdf        # Official Test Paper (Set A)
+│   └── README.md                        # Comprehensive Test Documentation & Solutions
+│
 └── README.md                            # Central Repository Documentation
 ```
 
@@ -126,6 +140,28 @@ OOP/
 | 📙 **Lab 3** | **Dynamic Memory Allocation in C++** | Heap memory allocation using `new` & `delete`, dynamic arrays, objects, character arrays, matrices | `10 / 10` | [PDF](./LAB3/OOP_LAB_3_CSE_B1.pdf) | [**Open →**](./LAB3/README.md) |
 | 📕 **Lab 4** | **Friend Functions & Friend Classes** | Accessing private members via friend functions, cross-class bridging, manager/controller patterns | `10 / 10` | [PDF](./LAB4/OOP_LAB_4_B1.pdf) | [**Open →**](./LAB4/README.md) |
 | 📓 **Lab 5** | **Function Overloading** | Compile-time polymorphism, method signatures, parameter variations, array and pointer passing | `10 / 10` | [PDF](./LAB5/OOP_LAB_5_B1.pdf) | [**Open →**](./LAB5/README.md) |
+
+---
+
+# 🧪 Laboratory Examinations & Tests
+
+| Test | Topic | Key OOP Paradigms Applied | Tasks | Test Paper | Directory |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 🧪 **Test 1** | **Core OOP Concepts (Set A)** | Dynamic object arrays, arrow operator (`->`), function overloading, friend functions & friend classes | `5 / 5` | [PDF](./TEST_1/OOP_LAB_TEST_B1_SET_A.pdf) | [**Open →**](./TEST_1/README.md) |
+
+<details>
+<summary><b>🔍 View Test 1 Problem Index & Highlights (Click to Expand)</b></summary>
+<br>
+
+| Problem | Title | Primary OOP Feature | Key Implementation Details |
+|:---:|:---|:---|:---|
+| **Q1** | [Smart Locker Allocation](./TEST_1/Q1_Smart_Locker_Allocation/) | Dynamic Object Array & Overloading | Dynamically allocates `Locker` objects, demonstrates pointer arithmetic, and provides overloaded `setCode()` methods. |
+| **Q2** | [Drone Battery Monitor](./TEST_1/Q2_Drone_Battery_Monitor/) | Dynamic Objects & Friend Function | Dynamically manages `Drone` objects, overloaded `update()` runtime checks, and friend function evaluation. |
+| **Q3** | [Movie Queue Display](./TEST_1/Q3_Movie_Queue_Display/) | Dynamic Queue Array & Friend Function | Dynamic circular queue of strings, capacity scaling, and friend function `exchange()` for priority swaps. |
+| **Q4** | [Laboratory Instrument Access](./TEST_1/Q4_Laboratory_Instrument_Access/) | Friend Class Architecture | Privileged controller class `LabSupervisor` modifying internal state of encapsulated `LabInstrument` instances. |
+| **Q5** | [E-Wallet Transaction Record](./TEST_1/Q5_E-Wallet_Transaction_Record/) | Dynamic Arrays & Destructors | Dynamic float array representing transaction ledgers, overloaded `transaction()` calls, and memory cleanup. |
+
+</details>
 
 ---
 
@@ -167,6 +203,7 @@ Progress: [████████████████████░░░
 | **Lab 03** | Dynamic Memory Allocation (`new`/`delete`) | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Lab 04** | Friend Functions & Friend Classes | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Lab 05** | Function Overloading | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
+| **Test 01** | Lab Test 1: Core OOP Concepts (Set A) | <span style="color:green">✔ **Completed**</span> | 5 / 5 |
 | **Lab 06** | Inheritance & Polymorphism | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 | **Lab 07** | Virtual Functions & Abstract Classes | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 | **Lab 08** | Operator Overloading | <span style="color:gray">⏳ *Coming Soon*</span> | — |
