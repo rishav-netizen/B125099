@@ -1,0 +1,7 @@
+i1 = ID: 101, Price: Rs. 50, Qty: 20
+i2 = ID: 101, Price: Rs. 50, Qty: 15
+i3 = ID: 102, Price: Rs. 50, Qty: 10
+i1 + i2 = ID: 101, Price: Rs. 50, Qty: 35
+Cannot combine: product ID or unit price mismatch!
+i1 + i3 = ID: 101, Price: Rs. 50, Qty: 20 (unchanged copy)
+Originals intact: i1 = ID: 101, Price: Rs. 50, Qty: 20
