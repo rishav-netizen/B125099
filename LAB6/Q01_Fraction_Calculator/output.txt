@@ -1,0 +1,5 @@
+f1 = 3/4
+f2 = 4/3
+f1 + f2 = 25/12
+f1 - f2 = -7/12
+Originals unchanged: f1 = 3/4, f2 = 4/3
