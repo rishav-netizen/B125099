@@ -1,0 +1,5 @@
+b1 = Items: 3, Total: Rs. 450
+b2 = Items: 5, Total: Rs. 700
+b1 + b2 = Items: 8, Total: Rs. 1150
+b1 > b2 ? false
+b2 > b1 ? true
