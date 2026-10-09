@@ -1,0 +1,5 @@
+b1 = "C++ Primer" (Rs. 899)
+b2 = "Java Basics" (Rs. 799)
+b3 = "Python Guide" (Rs. 799)
+b2 < b1 ? true
+b2 < b3 ? true  (same price, "Java Basics" < "Python Guide")
