@@ -1,0 +1,3 @@
+Original:      Balance: Rs. 5000
+After unary -: Balance: Rs. -5000
+Original still: Balance: Rs. 5000 (unchanged)
