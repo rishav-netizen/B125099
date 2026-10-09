@@ -1,0 +1,5 @@
+Prefix Increment (++s1):
+s1 = 11, pre = 11
+
+Postfix Increment (s2++):
+s2 = 11, post = 10
