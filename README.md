@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Course-OOP%20Laboratory-success?style=for-the-badge&logo=bookstack" alt="Course">
   <img src="https://img.shields.io/badge/Semester-3rd%20Semester-purple?style=for-the-badge&logo=mortarboard" alt="Semester">
   <img src="https://img.shields.io/badge/University-IIIT%20Bhubaneswar-orange?**style**=for-the-badge&logo=googleclassroom" alt="University">
-  <img src="https://img.shields.io/badge/Total%20Labs-05%20Completed-brightgreen?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
+  <img src="https://img.shields.io/badge/Total%20Labs-06%20Completed-brightgreen?style=for-the-badge&logo=checkmarx" alt="Labs Completed">
   <img src="https://img.shields.io/badge/Lab%20Test-01%20Completed-crimson?style=for-the-badge&logo=target" alt="Lab Test Completed">
 </p>
 
@@ -117,6 +117,21 @@ OOP/
 │   ├── OOP_LAB_5_B1.pdf
 │   └── README.md
 │
+├── 📁 LAB6/                             # Lab 6: Operator Overloading
+│   ├── Q01_Fraction_Calculator/
+│   ├── Q02_Time_Duration_Calculator/
+│   ├── Q03_Book_Price_Ranking/
+│   ├── Q04_Unary_Operator/
+│   ├── Q05_Score_Tracker/
+│   ├── Q06_Date_Equality/
+│   ├── Q07_Inventory_Combination/
+│   ├── Q08_Temperature_Comparison/
+│   ├── Q09_Matrix_Addition/
+│   ├── Q10_Shopping_Bill_Operations/
+│   ├── OOP_LAB_6_CSE_B1 (1).pdf
+│   ├── main.py
+│   └── README.md
+│
 ├── 📁 TEST_1/                           # Lab Test 1: Core OOP Concepts & Dynamic Memory
 │   ├── Q1_Smart_Locker_Allocation/      # Dynamic Object Array, Overloaded setCode()
 │   ├── Q2_Drone_Battery_Monitor/        # Dynamic Objects, Overloaded update(), Friend Function
@@ -140,6 +155,7 @@ OOP/
 | 📙 **Lab 3** | **Dynamic Memory Allocation in C++** | Heap memory allocation using `new` & `delete`, dynamic arrays, objects, character arrays, matrices | `10 / 10` | [PDF](./LAB3/OOP_LAB_3_CSE_B1.pdf) | [**Open →**](./LAB3/README.md) |
 | 📕 **Lab 4** | **Friend Functions & Friend Classes** | Accessing private members via friend functions, cross-class bridging, manager/controller patterns | `10 / 10` | [PDF](./LAB4/OOP_LAB_4_B1.pdf) | [**Open →**](./LAB4/README.md) |
 | 📓 **Lab 5** | **Function Overloading** | Compile-time polymorphism, method signatures, parameter variations, array and pointer passing | `10 / 10` | [PDF](./LAB5/OOP_LAB_5_B1.pdf) | [**Open →**](./LAB5/README.md) |
+| 📔 **Lab 6** | **Operator Overloading** | Compile-time operator overloading, binary arithmetic, unary negation, prefix/postfix increment, relational/equality checks | `10 / 10` | [PDF](./LAB6/OOP_LAB_6_CSE_B1%20(1).pdf) | [**Open →**](./LAB6/README.md) |
 
 ---
 
@@ -185,15 +201,16 @@ OOP/
 - **Friend Functions:** Non-member functions granted access to private member data for cross-object comparisons and evaluations.
 - **Friend Classes:** Controller / Manager design patterns allowing full state inspection and manipulation across distinct classes.
 - **Function Overloading:** Compile-time polymorphism by varying function signatures (number, type, or order of parameters).
-- **Constructors & Destructors:** *(Upcoming)*
+- **Operator Overloading:** Compile-time polymorphism overloading binary arithmetic (`+`, `-`), unary negation (`-`), prefix/postfix increments (`++`), equality (`==`, `!=`), and relational comparisons (`<`, `>`).
 - **Inheritance & Polymorphism:** *(Upcoming)*
+- **Templates & Exception Handling:** *(Upcoming)*
 
 ---
 
 # 📈 Repository Progress
 
 ```text
-Progress: [████████████████████░░░░░░░░░░] 50% (5 / 10 Modules)
+Progress: [████████████████████████░░░░░░] 60% (6 / 10 Modules)
 ```
 
 | Lab Module | Topic | Status | Solved |
@@ -204,9 +221,9 @@ Progress: [████████████████████░░░
 | **Lab 04** | Friend Functions & Friend Classes | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Lab 05** | Function Overloading | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
 | **Test 01** | Lab Test 1: Core OOP Concepts (Set A) | <span style="color:green">✔ **Completed**</span> | 5 / 5 |
-| **Lab 06** | Inheritance & Polymorphism | <span style="color:gray">⏳ *Coming Soon*</span> | — |
-| **Lab 07** | Virtual Functions & Abstract Classes | <span style="color:gray">⏳ *Coming Soon*</span> | — |
-| **Lab 08** | Operator Overloading | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 06** | Operator Overloading | <span style="color:green">✔ **Completed**</span> | 10 / 10 |
+| **Lab 07** | Inheritance & Polymorphism | <span style="color:gray">⏳ *Coming Soon*</span> | — |
+| **Lab 08** | Virtual Functions & Abstract Classes | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 | **Lab 09** | Templates & Exception Handling | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 | **Lab 10** | File Handling & Streams | <span style="color:gray">⏳ *Coming Soon*</span> | — |
 
