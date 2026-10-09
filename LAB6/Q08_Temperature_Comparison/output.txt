@@ -1,0 +1,6 @@
+t1 = 32.5 °C
+t2 = 25 °C
+t1 > t2 ? true
+t1 < t2 ? false
+-t1 = -32.5 °C
+t1 still = 32.5 °C (unchanged)
